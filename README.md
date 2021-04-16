@@ -16,7 +16,7 @@ This framework create a backend/serverside for the application. User need not to
 
 6.User can use ServicesDoc tool in framework to find list of services inside application.
 
-# Getting Started.(steps to use the Framework)
+# Steps to use the Framework
 1 Extract a zip file.
 
 
