@@ -1,4 +1,3 @@
 # WebServices-Framework
-This framework provides the services by which user can creates a web application with minimum muddle.
-This framework will creates the serverside services for the application user not need to write or know about servlets. 
-# Benifits of FrameWork:-
+TMWebRock is web services framework provides the services by which user can creates web application.
+This framework create a backend/serverside for the application. User need not to know about servlets and how to manage requests.
