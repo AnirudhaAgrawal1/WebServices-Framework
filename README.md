@@ -355,4 +355,4 @@ Framework will automaically find the type of patameter and parse the raw data in
 
 15.A tool is also provided which can be used to check errors in files written by user. User should go to WEB-INF\classes and type the follwing command, java -classpath ..\lib\*;c:\tomcat9\lib\*;. com.thinking.machines.webrock.tools.ServiceDoc path(to the classes folder) path(where user wants to save the pdf) When user enters this line one of the following pdf will be generated,
  
- Service.pdf : This pdf will be generated with a description of Annotations used, Classes and Methods and at last errors will be written.
+ ServiceDoc.pdf : This pdf will be generated with a description of Annotations used, Classes and Methods and at last errors will be written.
