@@ -66,7 +66,7 @@ To load the javascript file user need to write the below line in html file 'abcd
 <script src='jsfile?name=abcd.js'></script>
 ```
 
-4.Now copy webServiceFramework.jar to tomcat9/Webapps/"Project Name"/WEB-INF/lib/. Tomcat search for servlet classes in classes folder or lib folder.
+4.Now copy TMWebRock.jar to tomcat9/Webapps/"Project Name"/WEB-INF/lib/. Tomcat search for servlet classes in classes folder or lib folder.
 
 5.Now copy all files inside Dependencies folder and paste them inside tomcat9/lib/. these are all the files you will ever need to create a web service. Our framework is Dependent on some of the these files. some of the jar file may already be present there you can skip those files.
 
