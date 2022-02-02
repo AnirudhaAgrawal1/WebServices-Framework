@@ -43,7 +43,7 @@ A java based web services framework, which provide an easier way to setup and cr
 ### To generate documentation
 There is a tool in this framework that generate the documentation. package name: com.thinking.machines.tools You have to pass two things as command line argument
 
-First argument : The Path to the folder where package exists
+First argument : The Path to the folder where package exists.
 Second arguement :Path where pdf will be saved.
 Along with that you also need to mention all the jar files location in classpath.
 ```
