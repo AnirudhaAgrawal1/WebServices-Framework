@@ -44,7 +44,8 @@ A java based web services framework, which provide an easier way to setup and cr
 There is a tool in this framework that generate the documentation. package name: com.thinking.machines.tools You have to pass two things as command line argument
 
 First argument : The Path to the folder where package exists.
-Second arguement :Path where pdf will be saved.
+
+Second arguement : Path where pdf will be saved.
 Along with that you also need to mention all the jar files location in classpath.
 ```
 java -classpath c:\tomcat9\webapps\myApp\WEB-INF\lib;c:\tomcat9\webapps\myApp\WEB-INF\classes;c:\tomcat9\lib\*;. ServiceDoc c:\tomcat9\webapps\myApp\WEB-INF\classes\ c:\tomcat9\webapps\myApp\
