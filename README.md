@@ -161,6 +161,7 @@ Framework provides three classes:
 - RequestScope
 - SessionScope
 - ApplicationScope
+
 If you want to use web application scopes . You can simply use these classes. All the above classes has two methods.
 
 void setAttribute(String key,Object value);
