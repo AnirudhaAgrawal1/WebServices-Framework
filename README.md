@@ -1,5 +1,5 @@
 # Web Services Framework
-A java based web services framework, which provide an easier way to setup and create backend/server side of the web application.
+A java-based web services framework, which provide an easier way to setup and create backend/server side of the web application.
 ## Benifits of using this framework
 - No need to configure XML file (deployment descriptor).
 - No need to write servlets classes.
